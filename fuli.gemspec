@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["adam_ruby@126.com"]
 
   spec.summary       = %q{fuli}
-  spec.description   = %q{fuli}
+  spec.description   = %q{just a useless tool, don't care about it.}
   spec.homepage      = "https://github.com/adamshen/fuli"
   spec.license       = "MIT"
 
